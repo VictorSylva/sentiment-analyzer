@@ -1,4 +1,4 @@
-![Sentiment Analyzer UI](screenshot.png)
+![Sentiment Analyzer UI](Screenshot.png)
 🧠 SENTIMENT ANALYZER WEB APP USING NATURAL LANGUAGE PROCESSING (NLP)
 
 Leveraging VADER Sentiment Analysis for Real-Time Text Emotion Classification
